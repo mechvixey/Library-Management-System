@@ -1,0 +1,5 @@
+Zorba,Nikos Kazancakis,1982,348
+Don Kiþot,Miguel de Cervantes,1605,292
+Romeo ve Juliet,William Shakespeare,1597,133
+Suç ve Ceza,Fyodor Dostoevsky,1866,1152
+Ana Karenina,Lev Tolstoy,1877,1035
